@@ -2,7 +2,7 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <title> Small Town Chronicles </title>
+      <title>Small Town Chronicles</title>
     </head>
     <body>
       <h1> Opening of New Downtown Bakery! </h1>
